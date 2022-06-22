@@ -28,7 +28,7 @@ img.card-img-top.girar {
 
 @keyframes fadein {
     from {
-        opacity: 0;
+        opacity: 0
     }
     to {
         opacity: 1;
