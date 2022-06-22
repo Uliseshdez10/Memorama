@@ -26,9 +26,9 @@ img.card-img-top.girar {
     animation: fadein 2s;
 }
 
-@keyframes fadein {
+@keyframes fadin {
     from {
-        opacity: 0
+        opacity: 0;
     }
     to {
         opacity: 1;
